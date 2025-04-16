@@ -5,11 +5,11 @@ Site de présentation des services Maknap
   <div class="service-list">
     <div class="service">
       <h3>Livraison de repas</h3>
-      <p>Commandez vos plats préférés chez nos partenaires en quelques clics.</p>
+      <p>Commandez vos flyers, affiches, chez nous en quelques clics.</p>
     </div>
     <div class="service">
-      <h3>Transport rapide</h3>
-      <p>Réservez un chauffeur ou une moto pour vous déplacer rapidement en ville.</p>
+      <h3>Decoration T-shirt Tasse Bache rapide</h3>
+      <p>Achetez puis soyez livré au plus bref delai.</p>
     </div>
     <div class="service">
       <h3>Vêtements & Loisirs</h3>
